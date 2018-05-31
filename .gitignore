@@ -1,5 +1,6 @@
-/.settings
 /.vscode
-/target
-.classpath
-.project
+/GeoTag-WebApp/.settings
+/GeoTag-WebApp/target
+/GeoTag-WebApp/.classpath
+/GeoTag-WebApp/.factorypath
+/GeoTag-WebApp/.project
