@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GeoTag-MobileApp</string>
+    <string name="app_name">GeoTag</string>
+    <string name="tag_text">Tag</string>
+    <string name="tag_btn_text">Tag</string>
 </resources>
